@@ -1,0 +1,52 @@
+const questions = [
+  {
+    question: "What is the capital of India?",
+    options: ["Mumbai", "New Delhi", "Kolkata", "Bangalore"],
+    answer: "New Delhi"
+  },
+  {
+    question: "How many days are there in a week?",
+    options: ["5", "6", "7", "8"],
+    answer: "7"
+  },
+  {
+    question: "Which planet is known as the Red Planet?",
+    options: ["Earth", "Jupiter", "Mars", "Venus"],
+    answer: "Mars"
+  },
+  {
+    question: "How many continents are there on Earth?",
+    options: ["5", "6", "7", "8"],
+    answer: "7"
+  },
+  {
+    question: "Which animal is known as the King of the Jungle?",
+    options: ["Elephant", "Lion", "Tiger", "Leopard"],
+    answer: "Lion"
+  },
+  {
+    question: "What is the color of the sky on a clear day?",
+    options: ["Blue", "Green", "Red", "Black"],
+    answer: "Blue"
+  },
+  {
+    question: "How many letters are there in the English alphabet?",
+    options: ["24", "25", "26", "27"],
+    answer: "26"
+  },
+  {
+    question: "Which is the largest ocean in the world?",
+    options: ["Atlantic", "Indian", "Arctic", "Pacific"],
+    answer: "Pacific"
+  },
+  {
+    question: "Which festival is known as the Festival of Lights in India?",
+    options: ["Holi", "Diwali", "Eid", "Christmas"],
+    answer: "Diwali"
+  },
+  {
+    question: "Which organ in the human body pumps blood?",
+    options: ["Lungs", "Liver", "Heart", "Brain"],
+    answer: "Heart"
+  }
+];
